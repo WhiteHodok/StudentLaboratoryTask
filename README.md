@@ -12,3 +12,13 @@
 
 5.https://habr.com/ru/company/skillfactory/blog/542852/
 
+Затем я обратился к официальной документации библиотек :
+
+1.https://scikit-learn.org/stable/index.html
+
+2.https://matplotlib.org/
+
+3.https://keras.io/
+
+4.https://www.tensorflow.org/api_docs
+
