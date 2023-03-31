@@ -26,3 +26,5 @@
 
 4.https://www.tensorflow.org/api_docs
 
+
+В моей книжке по науке о данных был пример как решать этот таск на чистом Пайтоне : https://imgur.com/a/IsUJRZr
