@@ -12,6 +12,10 @@
 
 5.https://habr.com/ru/company/skillfactory/blog/542852/
 
+6.https://www.youtube.com/watch?v=oCXh_GFMmOE
+
+7.https://www.youtube.com/watch?v=S3cViFMiYZ4
+
 Затем я обратился к официальной документации библиотек :
 
 1.https://scikit-learn.org/stable/index.html
